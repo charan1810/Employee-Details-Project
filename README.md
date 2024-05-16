@@ -1,0 +1,1 @@
+This code is based on csv module-python and extension of this code is creating a database( pdbc i.e., Python Data Base Communication system).Inserting all the values like employee_id, employee_number, employee_name, employee_desgn, employee_sal, employee_contact in the databse.
